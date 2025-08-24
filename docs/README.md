@@ -47,5 +47,5 @@ For technical support or questions about the documentation:
 
 ---
 
-*Last updated: January 2025*
+*Last updated: August 2025*
 *Documentation version: 1.0*
