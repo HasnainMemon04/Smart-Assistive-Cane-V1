@@ -1,0 +1,145 @@
+# Smart Assistive Cane V1 - Root .gitignore
+
+# Sensitive Configuration Files
+arduino_secrets.h
+secrets.h
+*.key
+*.pem
+*.p12
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build and Compilation Files
+build/
+dist/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Arduino IDE Files
+*.hex
+*.elf
+*.bin
+*.eep
+*.lss
+*.map
+*.sym
+*.tmp
+
+# Flutter/Dart Files (for APP directory)
+APP/.dart_tool/
+APP/build/
+APP/.flutter-plugins
+APP/.flutter-plugins-dependencies
+APP/.packages
+APP/pubspec.lock
+
+# Platform-specific build files
+APP/android/app/build/
+APP/ios/build/
+APP/linux/build/
+APP/macos/build/
+APP/windows/build/
+APP/web/build/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Logs and Debug Files
+*.log
+debug.log
+error.log
+crash.log
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+
+# Documentation Build Files
+docs/_build/
+docs/.doctrees/
+
+# Environment Files
+.env
+.env.local
+.env.production
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Archive Files
+*.zip
+*.tar.gz
+*.rar
+
+# System Files
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Node.js (if any web components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if any scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Test Coverage
+coverage/
+*.cover
+.coverage
+.coverage.*
+
+# Documentation
+*.pdf
+*.doc
+*.docx
+
+# Keep important files
+!README.md
+!LICENSE
+!CONTRIBUTING.md
+!CODE_OF_CONDUCT.md
+!CHANGELOG.md
+!TECHNICAL_ARCHITECTURE.md
+!PRODUCT_REQUIREMENTS.md
