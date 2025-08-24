@@ -1,0 +1,234 @@
+# Smart Cane Audio Files List
+# This file lists all required audio files for the Smart Cane audio feedback system
+# Format: [Directory]/[Filename] - [Description]
+
+# Serial Statement Audio Files (274 files)
+serial/serial_001.wav - WiFi connected
+serial/serial_002.wav - WiFi connection failed
+serial/serial_003.wav - WiFi status
+serial/serial_004.wav - Connected to [SSID]
+serial/serial_005.wav - Signal strength: [value] dBm
+serial/serial_006.wav - WiFi functionality disabled
+serial/serial_007.wav - Switching to offline mode
+serial/serial_008.wav - Cloud functionality disabled
+serial/serial_009.wav - Cloud connection status
+serial/serial_011.wav - Status: Offline mode
+serial/serial_012.wav - Resetting cloud connection
+serial/serial_014.wav - Light sensor calibration reset
+serial/serial_016.wav - AddLocation command received
+serial/serial_017.wav - Light sensor calibration
+serial/serial_018.wav - Calibration complete
+serial/serial_019.wav - Calibration in progress
+serial/serial_020.wav - Calibration failed
+serial/serial_021.wav - Testing vibration motors
+serial/serial_022.wav - Vibration test complete
+serial/serial_023.wav - Vibration motor 1 test
+serial/serial_024.wav - Vibration motor 2 test
+serial/serial_025.wav - BLE connected
+serial/serial_026.wav - BLE disconnected
+serial/serial_027.wav - BLE status
+serial/serial_028.wav - BLE device name
+serial/serial_029.wav - BLE MAC address
+serial/serial_030.wav - ToF mode
+serial/serial_031.wav - Radar mode
+serial/serial_032.wav - Simple mode
+serial/serial_033.wav - Distance reading
+serial/serial_034.wav - GPS status
+serial/serial_035.wav - GPS connected
+serial/serial_036.wav - GPS disconnected
+serial/serial_037.wav - Satellites
+serial/serial_038.wav - GPS coordinates
+serial/serial_039.wav - Sensor reset
+serial/serial_040.wav - All sensors reset
+serial/serial_041.wav - IMU reset
+serial/serial_042.wav - ToF reset
+serial/serial_043.wav - Feedback mode
+serial/serial_044.wav - Buzzer mode
+serial/serial_045.wav - Vibration mode
+serial/serial_046.wav - Both mode
+serial/serial_202.wav - Running full system diagnostic
+serial/serial_203.wav - Diagnostic complete
+serial/serial_204.wav - Checking sensor connectivity
+serial/serial_205.wav - All sensors connected successfully
+serial/serial_206.wav - Some sensors failed connectivity check
+serial/serial_207.wav - Smart Cane System Status
+serial/serial_208.wav - Smart Assistive Cane v1.0
+serial/serial_209.wav - Uptime
+serial/serial_210.wav - Free heap
+serial/serial_211.wav - BLE connected
+serial/serial_212.wav - Audio System
+serial/serial_213.wav - Feedback Mode
+serial/serial_214.wav - ToF Mode
+serial/serial_215.wav - Current Room
+serial/serial_216.wav - Daily Steps
+serial/serial_217.wav - Temperature
+serial/serial_218.wav - Humidity
+serial/serial_219.wav - Light
+serial/serial_220.wav - Distance
+serial/serial_221.wav - GPS
+serial/serial_222.wav - Available commands
+serial/serial_223.wav - wifi
+serial/serial_224.wav - reconnect
+serial/serial_225.wav - resetwifi
+serial/serial_226.wav - offline
+serial/serial_227.wav - resetcal
+serial/serial_228.wav - vibrate
+serial/serial_229.wav - rooms
+serial/serial_230.wav - clearrooms
+serial/serial_231.wav - autoreg
+serial/serial_232.wav - addlocation
+serial/serial_233.wav - addroom
+serial/serial_234.wav - Button controls
+serial/serial_235.wav - Hold BTN1
+serial/serial_236.wav - Hold BTN2
+serial/serial_237.wav - Hold BTN3
+serial/serial_238.wav - BTN3 short press
+serial/serial_239.wav - BTN3 hold 3s
+serial/serial_240.wav - BTN3 hold 10s
+serial/serial_243.wav - ToF sensor reset
+serial/serial_244.wav - ToF sensor reset complete
+serial/serial_245.wav - Failed to initialize sensor
+serial/serial_246.wav - VL53L1X Smart Cane System initialized
+serial/serial_248.wav - Modes: Simple / Radar
+serial/serial_249.wav - ToF sensor appears stuck
+serial/serial_269.wav - Switching to radar mode
+serial/serial_270.wav - Switching to simple mode
+serial/serial_271.wav - Real-time radar task started
+serial/serial_272.wav - Radar sweep completed
+serial/serial_273.wav - Real-time radar scanning started
+serial/serial_274.wav - Radar scan results
+
+# Digit Audio Files (32 files)
+digits/num0.wav - Zero
+digits/num1.wav - One
+digits/num2.wav - Two
+digits/num3.wav - Three
+digits/num4.wav - Four
+digits/num5.wav - Five
+digits/num6.wav - Six
+digits/num7.wav - Seven
+digits/num8.wav - Eight
+digits/num9.wav - Nine
+digits/num10.wav - Ten
+digits/num11.wav - Eleven
+digits/num12.wav - Twelve
+digits/num13.wav - Thirteen
+digits/num14.wav - Fourteen
+digits/num15.wav - Fifteen
+digits/num16.wav - Sixteen
+digits/num17.wav - Seventeen
+digits/num18.wav - Eighteen
+digits/num19.wav - Nineteen
+digits/num20.wav - Twenty
+digits/num30.wav - Thirty
+digits/num40.wav - Forty
+digits/num50.wav - Fifty
+digits/num60.wav - Sixty
+digits/num70.wav - Seventy
+digits/num80.wav - Eighty
+digits/num90.wav - Ninety
+digits/hundred.wav - Hundred
+digits/thousand.wav - Thousand
+digits/point.wav - Point
+digits/minus.wav - Minus
+
+# Unit Audio Files (15 files)
+digits/centimeters.wav - Centimeters
+digits/meters.wav - Meters
+digits/millimeters.wav - Millimeters
+digits/celsius.wav - Degrees Celsius
+digits/fahrenheit.wav - Degrees Fahrenheit
+digits/lux.wav - Lux
+digits/percent.wav - Percent
+digits/volts.wav - Volts
+digits/milliamps.wav - Milliamps
+digits/watts.wav - Watts
+digits/seconds.wav - Seconds
+digits/minutes.wav - Minutes
+digits/hours.wav - Hours
+digits/days.wav - Days
+digits/steps.wav - Steps
+
+# Critical Alert Audio Files (8 files)
+critical/system_ready.wav - System ready
+critical/obstacle_ahead.wav - Obstacle ahead
+critical/distance_sensor_failed.wav - Distance sensor failed
+critical/low_battery.wav - Low battery
+critical/emergency_alert.wav - Emergency alert
+critical/gps_no_signal.wav - GPS signal lost
+critical/sensor_malfunction.wav - Sensor malfunction
+critical/system_error.wav - System error
+
+# Environmental Audio Files (12 files)
+environmental/dark_environment.wav - Dark environment
+environmental/dim_light.wav - Dim lighting
+environmental/bright_light.wav - Bright lighting
+environmental/very_bright.wav - Very bright lighting
+environmental/wet_surface.wav - Wet surface detected
+environmental/dry_surface.wav - Dry surface
+environmental/uneven_ground.wav - Uneven ground
+environmental/smooth_surface.wav - Smooth surface
+environmental/indoor_environment.wav - Indoor environment
+environmental/outdoor_environment.wav - Outdoor environment
+environmental/noisy_environment.wav - Noisy environment
+environmental/quiet_environment.wav - Quiet environment
+
+# Navigation Audio Files (15 files)
+navigation/turn_left.wav - Turn left
+navigation/turn_right.wav - Turn right
+navigation/go_straight.wav - Go straight
+navigation/turn_around.wav - Turn around
+navigation/stairs_ahead.wav - Stairs ahead
+navigation/stairs_up.wav - Stairs going up
+navigation/stairs_down.wav - Stairs going down
+navigation/door_ahead.wav - Door ahead
+navigation/wall_ahead.wav - Wall ahead
+navigation/open_space.wav - Open space
+navigation/narrow_passage.wav - Narrow passage
+navigation/destination_reached.wav - Destination reached
+navigation/satellites_connected.wav - Satellites connected
+navigation/gps_signal_weak.wav - GPS signal weak
+navigation/location_updated.wav - Location updated
+
+# Total Files Summary:
+# Serial statements: 84 files
+# Digits: 32 files
+# Units: 15 files
+# Critical alerts: 8 files
+# Environmental: 12 files
+# Navigation: 15 files
+# TOTAL: 166 audio files
+
+# File Format Requirements:
+# - Format: WAV (uncompressed PCM)
+# - Sample Rate: 16kHz
+# - Bit Depth: 16-bit
+# - Channels: Mono
+# - Duration: 1-3 seconds per file
+# - Total estimated size: 50-100MB
+
+# Creation Priority:
+# 1. Critical alerts (for safety)
+# 2. Basic digits (0-9, point)
+# 3. Common units (centimeters, celsius, lux)
+# 4. System status messages (serial_207-221)
+# 5. Navigation commands
+# 6. Environmental feedback
+# 7. Complete serial statement library
+
+# Text-to-Speech Recommendations:
+# - Use clear, slow speech
+# - Female or male voice (consistent throughout)
+# - Professional quality (Google TTS, Amazon Polly, etc.)
+# - Consider multiple language support
+# - Test pronunciation of technical terms
+
+# Testing Files (Create these first for system validation):
+# 1. critical/system_ready.wav
+# 2. digits/num1.wav
+# 3. digits/num2.wav
+# 4. digits/num3.wav
+# 5. serial_207.wav (System status)
+# 6. navigation/go_straight.wav
+# 7. environmental/bright_light.wav
+# 8. critical/obstacle_ahead.wav

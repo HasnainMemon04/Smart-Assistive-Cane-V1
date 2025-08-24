@@ -1,0 +1,176 @@
+<svg width="900" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 20px sans-serif; fill: #2c3e50; }
+      .subtitle { font: bold 14px sans-serif; fill: #34495e; }
+      .label { font: 11px sans-serif; fill: #2c3e50; }
+      .small-label { font: 9px sans-serif; fill: #7f8c8d; }
+      .controller { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .sensor { fill: #e74c3c; stroke: #c0392b; stroke-width: 2; }
+      .communication { fill: #9b59b6; stroke: #8e44ad; stroke-width: 2; }
+      .feedback { fill: #f39c12; stroke: #e67e22; stroke-width: 2; }
+      .power { fill: #27ae60; stroke: #229954; stroke-width: 2; }
+      .connection { stroke: #7f8c8d; stroke-width: 2; fill: none; }
+      .data-flow { stroke: #3498db; stroke-width: 2; fill: none; marker-end: url(#arrowhead); }
+    </style>
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#3498db" />
+      </marker>
+    </defs>
+  </defs>
+  
+  <!-- Title -->
+  <text x="450" y="30" text-anchor="middle" class="title">Smart Assistive Cane V1 - System Architecture</text>
+  
+  <!-- Main Controller -->
+  <rect x="350" y="250" width="200" height="100" rx="10" class="controller"/>
+  <text x="450" y="275" text-anchor="middle" class="subtitle">ESP32-S3 Controller</text>
+  <text x="450" y="295" text-anchor="middle" class="label">• Dual-core 240MHz</text>
+  <text x="450" y="310" text-anchor="middle" class="label">• 16MB Flash, 8MB PSRAM</text>
+  <text x="450" y="325" text-anchor="middle" class="label">• WiFi + Bluetooth</text>
+  <text x="450" y="340" text-anchor="middle" class="label">• Real-time Processing</text>
+  
+  <!-- Sensor Layer -->
+  <text x="150" y="70" text-anchor="middle" class="subtitle">Sensor Layer</text>
+  
+  <!-- Environmental Sensors -->
+  <rect x="50" y="90" width="100" height="70" rx="5" class="sensor"/>
+  <text x="100" y="110" text-anchor="middle" class="label">Environmental</text>
+  <text x="100" y="125" text-anchor="middle" class="small-label">DHT22 (Temp/Hum)</text>
+  <text x="100" y="140" text-anchor="middle" class="small-label">BH1750 (Light)</text>
+  <text x="100" y="155" text-anchor="middle" class="small-label">I2C Interface</text>
+  
+  <!-- Motion Sensors -->
+  <rect x="170" y="90" width="100" height="70" rx="5" class="sensor"/>
+  <text x="220" y="110" text-anchor="middle" class="label">Motion Detection</text>
+  <text x="220" y="125" text-anchor="middle" class="small-label">MPU6050 IMU</text>
+  <text x="220" y="140" text-anchor="middle" class="small-label">Fall Detection</text>
+  <text x="220" y="155" text-anchor="middle" class="small-label">Step Counting</text>
+  
+  <!-- Distance Sensors -->
+  <rect x="290" y="90" width="100" height="70" rx="5" class="sensor"/>
+  <text x="340" y="110" text-anchor="middle" class="label">Obstacle Detection</text>
+  <text x="340" y="125" text-anchor="middle" class="small-label">VL53L1X ToF</text>
+  <text x="340" y="140" text-anchor="middle" class="small-label">3.5m Range</text>
+  <text x="340" y="155" text-anchor="middle" class="small-label">Servo Scanning</text>
+  
+  <!-- Navigation Sensors -->
+  <rect x="410" y="90" width="100" height="70" rx="5" class="sensor"/>
+  <text x="460" y="110" text-anchor="middle" class="label">Navigation</text>
+  <text x="460" y="125" text-anchor="middle" class="small-label">MFRC522 RFID</text>
+  <text x="460" y="140" text-anchor="middle" class="small-label">NEO-6M GPS</text>
+  <text x="460" y="155" text-anchor="middle" class="small-label">Indoor/Outdoor</text>
+  
+  <!-- Communication Layer -->
+  <text x="750" y="200" text-anchor="middle" class="subtitle">Communication</text>
+  
+  <!-- WiFi -->
+  <rect x="700" y="220" width="100" height="50" rx="5" class="communication"/>
+  <text x="750" y="240" text-anchor="middle" class="label">WiFi</text>
+  <text x="750" y="255" text-anchor="middle" class="small-label">IoT Cloud</text>
+  
+  <!-- Bluetooth -->
+  <rect x="700" y="280" width="100" height="50" rx="5" class="communication"/>
+  <text x="750" y="300" text-anchor="middle" class="label">Bluetooth LE</text>
+  <text x="750" y="315" text-anchor="middle" class="small-label">Mobile App</text>
+  
+  <!-- Serial -->
+  <rect x="700" y="340" width="100" height="50" rx="5" class="communication"/>
+  <text x="750" y="360" text-anchor="middle" class="label">Serial USB</text>
+  <text x="750" y="375" text-anchor="middle" class="small-label">Debug/Config</text>
+  
+  <!-- Feedback Layer -->
+  <text x="150" y="450" text-anchor="middle" class="subtitle">Feedback System</text>
+  
+  <!-- Haptic Feedback -->
+  <rect x="50" y="470" width="100" height="70" rx="5" class="feedback"/>
+  <text x="100" y="490" text-anchor="middle" class="label">Haptic</text>
+  <text x="100" y="505" text-anchor="middle" class="small-label">Vibration Motors</text>
+  <text x="100" y="520" text-anchor="middle" class="small-label">Tactile Alerts</text>
+  <text x="100" y="535" text-anchor="middle" class="small-label">Distance Coding</text>
+  
+  <!-- Audio Feedback -->
+  <rect x="170" y="470" width="100" height="70" rx="5" class="feedback"/>
+  <text x="220" y="490" text-anchor="middle" class="label">Audio</text>
+  <text x="220" y="505" text-anchor="middle" class="small-label">Piezo Buzzer</text>
+  <text x="220" y="520" text-anchor="middle" class="small-label">Tone Patterns</text>
+  <text x="220" y="535" text-anchor="middle" class="small-label">Alert Sounds</text>
+  
+  <!-- Visual Feedback -->
+  <rect x="290" y="470" width="100" height="70" rx="5" class="feedback"/>
+  <text x="340" y="490" text-anchor="middle" class="label">Visual</text>
+  <text x="340" y="505" text-anchor="middle" class="small-label">Status LEDs</text>
+  <text x="340" y="520" text-anchor="middle" class="small-label">Mode Indicators</text>
+  <text x="340" y="535" text-anchor="middle" class="small-label">System Status</text>
+  
+  <!-- User Interface -->
+  <rect x="410" y="470" width="100" height="70" rx="5" class="feedback"/>
+  <text x="460" y="490" text-anchor="middle" class="label">User Input</text>
+  <text x="460" y="505" text-anchor="middle" class="small-label">Push Buttons</text>
+  <text x="460" y="520" text-anchor="middle" class="small-label">Mode Switching</text>
+  <text x="460" y="535" text-anchor="middle" class="small-label">Calibration</text>
+  
+  <!-- Power Management -->
+  <rect x="550" y="400" width="120" height="80" rx="5" class="power"/>
+  <text x="610" y="425" text-anchor="middle" class="subtitle">Power System</text>
+  <text x="610" y="445" text-anchor="middle" class="label">7.4V Li-Po Battery</text>
+  <text x="610" y="460" text-anchor="middle" class="label">3.3V Regulator</text>
+  <text x="610" y="475" text-anchor="middle" class="label">180mA Average</text>
+  
+  <!-- Data Flow Arrows -->
+  <!-- Sensors to Controller -->
+  <line x1="100" y1="160" x2="380" y2="250" class="data-flow"/>
+  <line x1="220" y1="160" x2="420" y2="250" class="data-flow"/>
+  <line x1="340" y1="160" x2="450" y2="250" class="data-flow"/>
+  <line x1="460" y1="160" x2="480" y2="250" class="data-flow"/>
+  
+  <!-- Controller to Communication -->
+  <line x1="550" y1="280" x2="700" y2="245" class="data-flow"/>
+  <line x1="550" y1="300" x2="700" y2="305" class="data-flow"/>
+  <line x1="550" y1="320" x2="700" y2="365" class="data-flow"/>
+  
+  <!-- Controller to Feedback -->
+  <line x1="380" y1="350" x2="100" y2="470" class="data-flow"/>
+  <line x1="420" y1="350" x2="220" y2="470" class="data-flow"/>
+  <line x1="450" y1="350" x2="340" y2="470" class="data-flow"/>
+  <line x1="480" y1="350" x2="460" y2="470" class="data-flow"/>
+  
+  <!-- Power connections -->
+  <line x1="610" y1="400" x2="450" y2="350" class="connection"/>
+  
+  <!-- Processing Pipeline -->
+  <rect x="50" y="600" width="800" height="80" rx="5" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="1"/>
+  <text x="60" y="620" class="subtitle">Data Processing Pipeline</text>
+  
+  <rect x="70" y="630" width="80" height="30" rx="3" fill="#e74c3c" stroke="#c0392b"/>
+  <text x="110" y="650" text-anchor="middle" class="small-label">Sensor Read</text>
+  
+  <text x="160" y="650" text-anchor="middle" class="label">→</text>
+  
+  <rect x="180" y="630" width="80" height="30" rx="3" fill="#f39c12" stroke="#e67e22"/>
+  <text x="220" y="650" text-anchor="middle" class="small-label">Filter/Process</text>
+  
+  <text x="270" y="650" text-anchor="middle" class="label">→</text>
+  
+  <rect x="290" y="630" width="80" height="30" rx="3" fill="#3498db" stroke="#2980b9"/>
+  <text x="330" y="650" text-anchor="middle" class="small-label">Decision Logic</text>
+  
+  <text x="380" y="650" text-anchor="middle" class="label">→</text>
+  
+  <rect x="400" y="630" width="80" height="30" rx="3" fill="#9b59b6" stroke="#8e44ad"/>
+  <text x="440" y="650" text-anchor="middle" class="small-label">Feedback Gen</text>
+  
+  <text x="490" y="650" text-anchor="middle" class="label">→</text>
+  
+  <rect x="510" y="630" width="80" height="30" rx="3" fill="#27ae60" stroke="#229954"/>
+  <text x="550" y="650" text-anchor="middle" class="small-label">User Output</text>
+  
+  <text x="600" y="650" text-anchor="middle" class="label">→</text>
+  
+  <rect x="620" y="630" width="80" height="30" rx="3" fill="#34495e" stroke="#2c3e50"/>
+  <text x="660" y="650" text-anchor="middle" class="small-label">Data Logging</text>
+  
+  <text x="750" y="640" class="small-label">Real-time processing</text>
+  <text x="750" y="655" class="small-label">< 50ms response time</text>
+</svg>

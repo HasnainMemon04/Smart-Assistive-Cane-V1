@@ -1,0 +1,9 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="24" fill="#2C5364"/>
+  <rect x="16" y="16" width="160" height="160" rx="16" fill="#203A43"/>
+  <circle cx="96" cy="80" r="24" fill="#7F5AF0"/>
+  <rect x="72" y="112" width="48" height="8" rx="4" fill="#5EE181"/>
+  <rect x="80" y="128" width="32" height="8" rx="4" fill="#5EE181"/>
+  <rect x="88" y="144" width="16" height="8" rx="4" fill="#5EE181"/>
+  <text x="96" y="175" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SMART CANE</text>
+</svg>

@@ -1,0 +1,90 @@
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+*.eep
+*.lss
+*.map
+*.sym
+*.tmp
+*.a
+*.o
+*.d
+*.e
+*.i
+*.s
+*.su
+*.flm
+*.lst
+*.log
+*.out
+*.app
+*.exe
+*.hex
+*.bin
+*.map
+*.elf
+*.eep
+*.lss
+*.sym
+*.tmp
+*.a
+*.o
+*.d
+*.e
+*.i
+*.s
+*.su
+*.flm
+*.lst
+*.log
+*.out
+*.app
+*.exe
+
+# Build directories
+build/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Configuration files with sensitive data
+# Uncomment if you want to exclude these
+# arduino_secrets.h
+# secrets.cpp
+
+# Library files (if any)
+libraries/
+lib/
+
+# Compiled libraries
+*.a
+*.lib
+
+# Arduino IDE specific
+*.ino.bak
+*.ino.local.txt 

@@ -1,0 +1,1083 @@
+Smart Cane Serial Audio Files Index
+===================================
+
+serial_001.wav: =========================================================================================================================================================================================================================================
+Original: =========================================================================================================================================================================================================================================
+--------------------------------------------------
+serial_002.wav: | Time | Temp | Hum | HeatIdx | DewPt | Lux | Env | Pitch | Roll | Yaw | Time of Flight | R F I D | Room | Lat | Lon | Alt | Spd | Sats | Daily | Total | Mode |
+Original: | Time | Temp (C) | Hum (%) | HeatIdx | DewPt | Lux   | Env                | Pitch | Roll  | Yaw   | ToF (cm) | RFID                        | Room | Lat         | Lon         | Alt (m) | Spd (km/h) | Sats | Daily | Total | Mode |
+--------------------------------------------------
+serial_003.wav: LOCATION: valuen
+Original: 🏠 LOCATION: %s\n
+--------------------------------------------------
+serial_004.wav: Testing vibration motors...
+Original: 🔔 Testing vibration motors...
+--------------------------------------------------
+serial_005.wav: Vibration test complete
+Original: ✅ Vibration test complete
+--------------------------------------------------
+serial_006.wav: Wi-Fi functionality disabled to save memory
+Original: WiFi functionality disabled to save memory
+--------------------------------------------------
+serial_007.wav: Switching to offline mode
+Original: 📱 Switching to offline mode
+--------------------------------------------------
+serial_008.wav: Cloud functionality disabled to save memory
+Original: ☁️ Cloud functionality disabled to save memory
+--------------------------------------------------
+serial_009.wav: Cloud Connection Status:
+Original: ☁️ Cloud Connection Status:
+--------------------------------------------------
+serial_010.wav: Cloud functionality disabled to save memory
+Original:    Cloud functionality disabled to save memory
+--------------------------------------------------
+serial_011.wav: Status: Offline mode
+Original:    Status: Offline mode (memory optimization)
+--------------------------------------------------
+serial_012.wav: Resetting cloud connection...
+Original: 🔄 Resetting cloud connection...
+--------------------------------------------------
+serial_013.wav: Cloud functionality disabled to save memory
+Original: ✅ Cloud functionality disabled to save memory
+--------------------------------------------------
+serial_014.wav: Light sensor calibration reset
+Original: 🔄 Light sensor calibration reset
+--------------------------------------------------
+serial_016.wav: DEBUG: addlocation command received
+Original: DEBUG: addlocation command received
+--------------------------------------------------
+serial_017.wav: Bluetooth Low Energy Status:
+Original: 📱 BLE Status:
+--------------------------------------------------
+serial_018.wav: Connected: valuen
+Original:    Connected: %s\n
+--------------------------------------------------
+serial_019.wav: Current Mode: RADAR
+Original: 📡 Current Mode: RADAR (Servo Scanning)
+--------------------------------------------------
+serial_020.wav: Current Mode: SIMPLE
+Original: 📏 Current Mode: SIMPLE (Fixed ToF)
+--------------------------------------------------
+serial_021.wav: G P S raw data toggle - functionality moved to G P S module
+Original: 📡 GPS raw data toggle - functionality moved to GPS module
+--------------------------------------------------
+serial_022.wav: G P S satellite info - functionality moved to G P S module
+Original: 🛰️ GPS satellite info - functionality moved to GPS module
+--------------------------------------------------
+serial_023.wav: G P S top 3 satellites - functionality moved to G P S module
+Original: 🛰️ GPS top 3 satellites - functionality moved to GPS module
+--------------------------------------------------
+serial_024.wav: G P S view all satellites - functionality moved to G P S module
+Original: 🛰️ GPS view all satellites - functionality moved to GPS module
+--------------------------------------------------
+serial_025.wav: G P S status - functionality moved to G P S module
+Original: 📍 GPS status - functionality moved to GPS module
+--------------------------------------------------
+serial_026.wav: Resetting Time of Flight sensor...
+Original: 🔄 Resetting ToF sensor...
+--------------------------------------------------
+serial_027.wav: Testing vibration motors...
+Original: 🔊 Testing vibration motors...
+--------------------------------------------------
+serial_028.wav: Vibration test completed
+Original: ✅ Vibration test completed
+--------------------------------------------------
+serial_029.wav: Testing buzzer-vibration sync...
+Original: 🔊 Testing buzzer-vibration sync...
+--------------------------------------------------
+serial_030.wav: Buzzer-vibration sync test completed
+Original: ✅ Buzzer-vibration sync test completed
+--------------------------------------------------
+serial_031.wav: Current Feedback Mode: valuen
+Original: 🔊 Current Feedback Mode: %d\n
+--------------------------------------------------
+serial_032.wav: 0 = BOTH
+Original:   0 = BOTH (buzzer + vibration)
+--------------------------------------------------
+serial_033.wav: 1 = BUZZER only
+Original:   1 = BUZZER only
+--------------------------------------------------
+serial_034.wav: 2 = VIBRATION only
+Original:   2 = VIBRATION only
+--------------------------------------------------
+serial_035.wav: Force vibration with buzzer test...
+Original: 🔊 Force vibration with buzzer test...
+--------------------------------------------------
+serial_036.wav: Set feedback mode to BOTH
+Original: Set feedback mode to BOTH (0)
+--------------------------------------------------
+serial_037.wav: Force vibration test completed
+Original: ✅ Force vibration test completed
+--------------------------------------------------
+serial_038.wav: Manual Time of Flight Sensor Reset...
+Original: 🔄 Manual ToF Sensor Reset...
+--------------------------------------------------
+serial_039.wav: SPEED-OPTIMIZED G P S Status:
+Original: 🚀 SPEED-OPTIMIZED GPS Status:
+--------------------------------------------------
+serial_040.wav: Fix Status: valuen
+Original:    Fix Status: %s\n
+--------------------------------------------------
+serial_041.wav: Satellites: valuen
+Original:    Satellites: %d\n
+--------------------------------------------------
+serial_042.wav: ⚡ MAXIMUM SPEED MODE - No accuracy filtering
+Original:    ⚡ MAXIMUM SPEED MODE - No accuracy filtering
+--------------------------------------------------
+serial_043.wav: All G N S S enabled: G P S+GLONASS+Galileo+BeiDou+QZSS
+Original:    📡 All GNSS enabled: GPS+GLONASS+Galileo+BeiDou+QZSS
+--------------------------------------------------
+serial_044.wav: Update Rate: 5Hz
+Original:    🔄 Update Rate: 5Hz (200ms)
+--------------------------------------------------
+serial_045.wav: Position: value valuen
+Original:    📍 Position: %.6f, %.6f\n
+--------------------------------------------------
+serial_046.wav: Altitude: valuemn
+Original:    Altitude: %.1fm\n
+--------------------------------------------------
+serial_047.wav: Speed: value km/hn
+Original:    Speed: %.1f km/h\n
+--------------------------------------------------
+serial_048.wav: ⏳ Acquiring satellites...
+Original:    ⏳ Acquiring satellites...
+--------------------------------------------------
+serial_049.wav: G P S Configuration:
+Original: ⚙️ GPS Configuration:
+--------------------------------------------------
+serial_050.wav: Update Rate: valueHzn
+Original:    Update Rate: %dHz\n
+--------------------------------------------------
+serial_051.wav: S B A S Enabled: valuen
+Original:    SBAS Enabled: %s\n
+--------------------------------------------------
+serial_052.wav: Multi-G N S S: valuen
+Original:    Multi-GNSS: %s\n
+--------------------------------------------------
+serial_053.wav: Dynamic Model: valuen
+Original:    Dynamic Model: %d\n
+--------------------------------------------------
+serial_054.wav: Elevation Mask: value°n
+Original:    Elevation Mask: %d°\n
+--------------------------------------------------
+serial_055.wav: G P S update rate set to valueHzn
+Original: 📡 GPS update rate set to %dHz\n
+--------------------------------------------------
+serial_056.wav: Invalid rate. Use 1-5Hz
+Original: ❌ Invalid rate. Use 1-5Hz
+--------------------------------------------------
+serial_057.wav: S B A S valuen
+Original: 📡 SBAS %s\n
+--------------------------------------------------
+serial_058.wav: Elevation mask set to value°n
+Original: 📡 Elevation mask set to %d°\n
+--------------------------------------------------
+serial_059.wav: Invalid elevation mask. Use 0-90 degrees
+Original: ❌ Invalid elevation mask. Use 0-90 degrees
+--------------------------------------------------
+serial_060.wav: 🔋 G P S power saving valuen
+Original: 🔋 GPS power saving %s\n
+--------------------------------------------------
+serial_061.wav: G P S cold start initiated
+Original: 🔄 GPS cold start initiated (32s TTFF expected)
+--------------------------------------------------
+serial_062.wav: G P S warm start initiated
+Original: 🔄 GPS warm start initiated (23s TTFF expected)
+--------------------------------------------------
+serial_063.wav: G P S hot start initiated
+Original: 🔄 GPS hot start initiated (<1s TTFF expected)
+--------------------------------------------------
+serial_064.wav: G P S configuration saved to S D card
+Original: 💾 GPS configuration saved to SD card
+--------------------------------------------------
+serial_065.wav: G P S configuration loaded from S D card
+Original: 📂 GPS configuration loaded from SD card
+--------------------------------------------------
+serial_066.wav: Position Accuracy: valuemn
+Original: 🎯 Position Accuracy: %.1fm\n
+--------------------------------------------------
+serial_067.wav: Excellent accuracy
+Original:    ✅ Excellent accuracy
+--------------------------------------------------
+serial_068.wav: Good accuracy
+Original:    ✅ Good accuracy
+--------------------------------------------------
+serial_069.wav: Moderate accuracy
+Original:    ⚠️ Moderate accuracy
+--------------------------------------------------
+serial_070.wav: Poor accuracy
+Original:    ❌ Poor accuracy
+--------------------------------------------------
+serial_071.wav: ⏱ Time to First Fix: value msn
+Original: ⏱️ Time to First Fix: %lu ms\n
+--------------------------------------------------
+serial_072.wav: ⚡ Hot start performance
+Original:    ⚡ Hot start performance
+--------------------------------------------------
+serial_073.wav: 🔥 Warm start performance
+Original:    🔥 Warm start performance
+--------------------------------------------------
+serial_074.wav: ❄ Cold start performance
+Original:    ❄️ Cold start performance
+--------------------------------------------------
+serial_075.wav: Detailed G P S Information:
+Original: 📡 Detailed GPS Information:
+--------------------------------------------------
+serial_076.wav: Fix Quality: valuen
+Original:    Fix Quality: %s\n
+--------------------------------------------------
+serial_077.wav: Satellites Used: valuen
+Original:    Satellites Used: %d\n
+--------------------------------------------------
+serial_078.wav: Altitude: value metersn
+Original:    Altitude: %.1f meters\n
+--------------------------------------------------
+serial_079.wav: Coordinates: value valuen
+Original:    Coordinates: %.6f, %.6f\n
+--------------------------------------------------
+serial_080.wav: Current Location: value valuen
+Original: 📍 Current Location: %.6f, %.6f\n
+--------------------------------------------------
+serial_081.wav: No G P S fix available
+Original: ❌ No GPS fix available
+--------------------------------------------------
+serial_082.wav: Home location saved: value valuen
+Original: 🏠 Home location saved: %.6f, %.6f\n
+--------------------------------------------------
+serial_083.wav: No G P S fix available to set home
+Original: ❌ No GPS fix available to set home
+--------------------------------------------------
+serial_084.wav: Distance from home: Calculating...
+Original: 🏠 Distance from home: Calculating...
+--------------------------------------------------
+serial_086.wav: Satellite Information:n
+Original: 🛰️ Satellite Information:\n
+--------------------------------------------------
+serial_087.wav: Satellites in view: valuen
+Original:    Satellites in view: %d\n
+--------------------------------------------------
+serial_088.wav: Signal quality: valuen
+Original:    Signal quality: %s\n
+--------------------------------------------------
+serial_089.wav: G P S Fix Quality:n
+Original: 🎯 GPS Fix Quality:\n
+--------------------------------------------------
+serial_090.wav: Fix status: valuen
+Original:    Fix status: %s\n
+--------------------------------------------------
+serial_091.wav: Quality: valuen
+Original:    Quality: %s\n
+--------------------------------------------------
+serial_092.wav: 🕐 G P S Time:
+Original: 🕐 GPS Time:
+--------------------------------------------------
+serial_094.wav: Time sync functionality disabled
+Original:    Time sync functionality disabled
+--------------------------------------------------
+serial_095.wav: G P S Statistics:
+Original: 📊 GPS Statistics:
+--------------------------------------------------
+serial_096.wav: G P S data cleared
+Original: 🗑️ GPS data cleared
+--------------------------------------------------
+serial_098.wav: 🗺 G P S Track Information:
+Original: 🗺️ GPS Track Information:
+--------------------------------------------------
+serial_099.wav: Track points: valuen
+Original:    Track points: %d\n
+--------------------------------------------------
+serial_100.wav: Total distance: value kmn
+Original:    Total distance: %.1f km\n
+--------------------------------------------------
+serial_102.wav: G P S Mode Settings:
+Original: ⚙️ GPS Mode Settings:
+--------------------------------------------------
+serial_103.wav: Current mode: Normal
+Original:    Current mode: Normal
+--------------------------------------------------
+serial_104.wav: Available modes: Normal Power Saving High Accuracy
+Original:    Available modes: Normal, Power Saving, High Accuracy
+--------------------------------------------------
+serial_106.wav: G P S Calibration:
+Original: 🔧 GPS Calibration:
+--------------------------------------------------
+serial_107.wav: Starting G P S calibration...
+Original:    Starting GPS calibration...
+--------------------------------------------------
+serial_108.wav: Please move the device in a figure-8 pattern
+Original:    Please move the device in a figure-8 pattern
+--------------------------------------------------
+serial_110.wav: G P S Logging:
+Original: 📝 GPS Logging:
+--------------------------------------------------
+serial_111.wav: Toggle G P S data logging
+Original:    Toggle GPS data logging
+--------------------------------------------------
+serial_113.wav: G P S Data Export:
+Original: 📤 GPS Data Export:
+--------------------------------------------------
+serial_114.wav: Current location: value valuen
+Original:    Current location: %.6f, %.6f\n
+--------------------------------------------------
+serial_116.wav: G P S Reset:
+Original: 🔄 GPS Reset:
+--------------------------------------------------
+serial_117.wav: Resetting G P S module...
+Original:    Resetting GPS module...
+--------------------------------------------------
+serial_119.wav: G P S Filtering:
+Original: 🔍 GPS Filtering:
+--------------------------------------------------
+serial_120.wav: Current filter: Kalman filter active
+Original:    Current filter: Kalman filter active
+--------------------------------------------------
+serial_121.wav: Filter strength: Medium
+Original:    Filter strength: Medium
+--------------------------------------------------
+serial_123.wav: 🐛 G P S Debug Mode:
+Original: 🐛 GPS Debug Mode:
+--------------------------------------------------
+serial_124.wav: Toggle G P S debug output
+Original:    Toggle GPS debug output
+--------------------------------------------------
+serial_126.wav: G P S Speed Information:
+Original: 🏃 GPS Speed Information:
+--------------------------------------------------
+serial_127.wav: Current speed: value km/hn
+Original:    Current speed: %.1f km/h\n
+--------------------------------------------------
+serial_128.wav: Average speed: value km/hn
+Original:    Average speed: %.1f km/h\n
+--------------------------------------------------
+serial_129.wav: Max speed: value km/hn
+Original:    Max speed: %.1f km/h\n
+--------------------------------------------------
+serial_130.wav: Speed accuracy: valuen
+Original:    Speed accuracy: %s\n
+--------------------------------------------------
+serial_131.wav: G P S Accuracy Metrics:
+Original: 🎯 GPS Accuracy Metrics:
+--------------------------------------------------
+serial_132.wav: H D O P: valuen
+Original:    HDOP: %s\n
+--------------------------------------------------
+serial_133.wav: Fix type: valuen
+Original:    Fix type: %s\n
+--------------------------------------------------
+serial_134.wav: G P S History:
+Original: 📚 GPS History:
+--------------------------------------------------
+serial_135.wav: Recent G P S data points:
+Original:    Recent GPS data points:
+--------------------------------------------------
+serial_137.wav: G P S Health Status:
+Original: 🏥 GPS Health Status:
+--------------------------------------------------
+serial_138.wav: Module status: valuen
+Original:    Module status: %s\n
+--------------------------------------------------
+serial_139.wav: Signal strength: valuen
+Original:    Signal strength: %s\n
+--------------------------------------------------
+serial_140.wav: Last update: valuen
+Original:    Last update: %s\n
+--------------------------------------------------
+serial_141.wav: G P S Timezone:
+Original: 🌍 GPS Timezone:
+--------------------------------------------------
+serial_142.wav: Current timezone: UTC+5 n
+Original:    Current timezone: UTC+5 (PKT)\n
+--------------------------------------------------
+serial_143.wav: Time sync functionality disabled to save memory
+Original:    Time sync functionality disabled to save memory
+--------------------------------------------------
+serial_144.wav: G P S Waypoint Management:
+Original: 📍 GPS Waypoint Management:
+--------------------------------------------------
+serial_145.wav: Available waypoints: 0
+Original:    Available waypoints: 0
+--------------------------------------------------
+serial_147.wav: G P S Navigation:
+Original: 🧭 GPS Navigation:
+--------------------------------------------------
+serial_148.wav: Navigation mode: Disabled
+Original:    Navigation mode: Disabled
+--------------------------------------------------
+serial_149.wav: Target: None set
+Original:    Target: None set
+--------------------------------------------------
+serial_150.wav: Distance: N/A
+Original:    Distance: N/A
+--------------------------------------------------
+serial_152.wav: Usage: addroom <room_number> <card_uid>
+Original: ❌ Usage: addroom <room_number> <card_uid>
+--------------------------------------------------
+serial_153.wav: Example: addroom 1 UID:12 34 56 78
+Original:    Example: addroom 1 UID:12 34 56 78
+--------------------------------------------------
+serial_154.wav: S D Card File Listing: valuen
+Original: 📁 SD Card File Listing: %s\n
+--------------------------------------------------
+serial_155.wav: S D Card Status:
+Original: 💾 SD Card Status:
+--------------------------------------------------
+serial_156.wav: Config directory exists
+Original:    ✅ Config directory exists
+--------------------------------------------------
+serial_157.wav: Config directory missing
+Original:    ❌ Config directory missing
+--------------------------------------------------
+serial_158.wav: Data directory exists
+Original:    ✅ Data directory exists
+--------------------------------------------------
+serial_159.wav: Data directory missing
+Original:    ❌ Data directory missing
+--------------------------------------------------
+serial_160.wav: Room data file exists
+Original:    ✅ Room data file exists
+--------------------------------------------------
+serial_161.wav: ℹ No room data file found
+Original:    ℹ️ No room data file found
+--------------------------------------------------
+serial_162.wav: Card info available after SDCard_init
+Original:    Card info available after SDCard_init()
+--------------------------------------------------
+serial_163.wav: Reading file: valuen
+Original: 📄 Reading file: %s\n
+--------------------------------------------------
+serial_164.wav: FILE_CONTENT:
+Original: FILE_CONTENT:
+--------------------------------------------------
+serial_165.wav: END_FILE_CONTENT
+Original: END_FILE_CONTENT
+--------------------------------------------------
+serial_166.wav: Failed to read file or file is empty
+Original: ❌ Failed to read file or file is empty
+--------------------------------------------------
+serial_167.wav: Usage: sdread <filepath>
+Original: ❌ Usage: sdread <filepath>
+--------------------------------------------------
+serial_168.wav: ✏ Writing to file: valuen
+Original: ✏️ Writing to file: %s\n
+--------------------------------------------------
+serial_169.wav: File written successfully
+Original: ✅ File written successfully
+--------------------------------------------------
+serial_170.wav: Failed to write file
+Original: ❌ Failed to write file
+--------------------------------------------------
+serial_171.wav: Usage: sdwrite <filepath> <content>
+Original: ❌ Usage: sdwrite <filepath> <content>
+--------------------------------------------------
+serial_172.wav: Ready to receive file: valuen
+Original: 📤 Ready to receive file: %s\n
+--------------------------------------------------
+serial_173.wav: UPLOAD_READY
+Original: UPLOAD_READY
+--------------------------------------------------
+serial_174.wav: Usage: sdupload <filepath>
+Original: ❌ Usage: sdupload <filepath>
+--------------------------------------------------
+serial_175.wav: Downloading file: valuen
+Original: 📥 Downloading file: %s\n
+--------------------------------------------------
+serial_176.wav: File content:nvaluen
+Original: 📄 File content:\n%s\n
+--------------------------------------------------
+serial_177.wav: DATA:valuen
+Original: DATA:%s\n
+--------------------------------------------------
+serial_178.wav: Memory allocation failed
+Original: ❌ Memory allocation failed
+--------------------------------------------------
+serial_179.wav: File not found
+Original: ❌ File not found
+--------------------------------------------------
+serial_180.wav: Usage: sddownload <filepath>
+Original: ❌ Usage: sddownload <filepath>
+--------------------------------------------------
+serial_181.wav: Deleting file: valuen
+Original: 🗑️ Deleting file: %s\n
+--------------------------------------------------
+serial_182.wav: File deleted successfully
+Original: ✅ File deleted successfully
+--------------------------------------------------
+serial_183.wav: Failed to delete file
+Original: ❌ Failed to delete file
+--------------------------------------------------
+serial_184.wav: Usage: sddelete <filepath>
+Original: ❌ Usage: sddelete <filepath>
+--------------------------------------------------
+serial_185.wav: Creating directory: valuen
+Original: 📁 Creating directory: %s\n
+--------------------------------------------------
+serial_186.wav: Directory creation not available with current SDCardManager
+Original: ❌ Directory creation not available with current SDCardManager
+--------------------------------------------------
+serial_187.wav: Usage: sdmkdir <dirpath>
+Original: ❌ Usage: sdmkdir <dirpath>
+--------------------------------------------------
+serial_188.wav: Renaming: value -> valuen
+Original: 📝 Renaming: %s -> %s\n
+--------------------------------------------------
+serial_189.wav: File rename not available with current SDCardManager
+Original: ❌ File rename not available with current SDCardManager
+--------------------------------------------------
+serial_190.wav: Usage: sdrename <oldpath> <newpath>
+Original: ❌ Usage: sdrename <oldpath> <newpath>
+--------------------------------------------------
+serial_191.wav: Starting Bluetooth Low Energy Performance Test...
+Original: 🚀 Starting BLE Performance Test...
+--------------------------------------------------
+serial_192.wav: Bluetooth Low Energy Performance Test Results:
+Original: 📊 BLE Performance Test Results:
+--------------------------------------------------
+serial_193.wav: Latency Test: value milliseconds for 10 packetsn
+Original:    Latency Test: %lu ms for 10 packets\n
+--------------------------------------------------
+serial_194.wav: Throughput Test: value packets in value msn
+Original:    Throughput Test: %d packets in %lu ms\n
+--------------------------------------------------
+serial_195.wav: Rate: value packets/secn
+Original:    Rate: %.2f packets/sec\n
+--------------------------------------------------
+serial_196.wav: Queue Status: value packets queuedn
+Original:    Queue Status: %d packets queued\n
+--------------------------------------------------
+serial_197.wav: Dropped Packets: valuen
+Original:    Dropped Packets: %d\n
+--------------------------------------------------
+serial_198.wav: Connection Quality: Stable
+Original:    Connection Quality: Stable
+--------------------------------------------------
+serial_199.wav: Connected Duration: value secondsn
+Original:    Connected Duration: %lu seconds\n
+--------------------------------------------------
+serial_200.wav: Bluetooth Low Energy Performance Test Complete
+Original: ✅ BLE Performance Test Complete
+--------------------------------------------------
+serial_201.wav: Bluetooth Low Energy not connected - cannot run performance test
+Original: ❌ BLE not connected - cannot run performance test
+--------------------------------------------------
+serial_202.wav: Running full system diagnostic...
+Original: 🔍 Running full system diagnostic...
+--------------------------------------------------
+serial_203.wav: Diagnostic complete!
+Original: ✅ Diagnostic complete!
+--------------------------------------------------
+serial_204.wav: Checking sensor connectivity...
+Original: 🔍 Checking sensor connectivity...
+--------------------------------------------------
+serial_205.wav: All sensors connected successfully!
+Original: ✅ All sensors connected successfully!
+--------------------------------------------------
+serial_206.wav: Some sensors failed connectivity check!
+Original: ❌ Some sensors failed connectivity check!
+--------------------------------------------------
+serial_207.wav: Smart Cane System Status:
+Original: 📊 Smart Cane System Status:
+--------------------------------------------------
+serial_208.wav: SMART ASSISTIVE CANE V1 - Made by Hasnain Memon
+Original: 🚀 SMART ASSISTIVE CANE V1 - Made by Hasnain Memon
+--------------------------------------------------
+serial_209.wav: ⏱ Uptime: value secondsn
+Original: ⏱️ Uptime: %lu seconds\n
+--------------------------------------------------
+serial_210.wav: Free Heap: value bytesn
+Original: 💾 Free Heap: %d bytes\n
+--------------------------------------------------
+serial_211.wav: Bluetooth Low Energy Connected: valuen
+Original: 📱 BLE Connected: %s\n
+--------------------------------------------------
+serial_212.wav: Feedback Mode: value n
+Original: 🔊 Feedback Mode: %d (%s)\n
+--------------------------------------------------
+serial_213.wav: Time of Flight Mode: valuen
+Original: 📡 ToF Mode: %s\n
+--------------------------------------------------
+serial_214.wav: Current Room: valuen
+Original: 🏠 Current Room: %d\n
+--------------------------------------------------
+serial_215.wav: 👣 Daily Steps: valuen
+Original: 👣 Daily Steps: %lu\n
+--------------------------------------------------
+serial_216.wav: Temperature: value°Cn
+Original: 🌡️ Temperature: %.1f°C\n
+--------------------------------------------------
+serial_217.wav: Humidity: valuevaluevaluen
+Original: 💧 Humidity: %.1f%%\n
+--------------------------------------------------
+serial_218.wav: Light: value lux n
+Original: 💡 Light: %.1f lux (%s)\n
+--------------------------------------------------
+serial_219.wav: Distance: value cmn
+Original: 📏 Distance: %.1f cm\n
+--------------------------------------------------
+serial_220.wav: G P S: value value n
+Original: 📍 GPS: %.6f, %.6f (%d sats)\n
+--------------------------------------------------
+serial_221.wav: Rebooting system with full diagnostics...
+Original: 🔄 Rebooting system with full diagnostics...
+--------------------------------------------------
+serial_222.wav: n📋 Available Commands:
+Original: \n📋 Available Commands:
+--------------------------------------------------
+serial_223.wav: Wi-Fi - Show connectivity status
+Original:    wifi     - Show connectivity status
+--------------------------------------------------
+serial_224.wav: reconnect - Manual Wi-Fi reconnection
+Original:    reconnect - Manual WiFi reconnection
+--------------------------------------------------
+serial_225.wav: resetwifi - Clear Wi-Fi credentials
+Original:    resetwifi - Clear WiFi credentials
+--------------------------------------------------
+serial_226.wav: offline - Switch to offline mode
+Original:    offline  - Switch to offline mode
+--------------------------------------------------
+serial_227.wav: resetcal - Reset light sensor calibration
+Original:    resetcal - Reset light sensor calibration
+--------------------------------------------------
+serial_228.wav: volts - Test vibration motors
+Original:    v        - Test vibration motors
+--------------------------------------------------
+serial_229.wav: rooms - Show registered room cards
+Original:    rooms    - Show registered room cards
+--------------------------------------------------
+serial_230.wav: clearrooms - Clear all room cards
+Original:    clearrooms - Clear all room cards
+--------------------------------------------------
+serial_231.wav: autoreg - Start auto room registration
+Original:    autoreg  - Start auto room registration
+--------------------------------------------------
+serial_232.wav: addlocation - Single command location registration
+Original:    addlocation - Single command location registration
+--------------------------------------------------
+serial_233.wav: addroom <room> <uid> - Add room card
+Original:    addroom <room> <uid> - Add room card
+--------------------------------------------------
+serial_234.wav: Button Controls:
+Original: 🎛️  Button Controls:
+--------------------------------------------------
+serial_235.wav: Hold BTN1 for 2+ seconds: Toggle radar mode
+Original:    Hold BTN1 for 2+ seconds: Toggle radar mode (on/off)
+--------------------------------------------------
+serial_236.wav: Hold BTN2 for 4s: Cycle feedback modes
+Original:    Hold BTN2 for 4s: Cycle feedback modes (BOTH → BUZZER → VIBRATION)
+--------------------------------------------------
+serial_237.wav: Hold BTN3 for 2s: Switch Time of Flight modes
+Original:    Hold BTN3 for 2s: Switch ToF modes (SIMPLE ↔ RADAR)
+--------------------------------------------------
+serial_238.wav: BTN3 short press: I M U calibration
+Original:    BTN3 short press: IMU calibration
+--------------------------------------------------
+serial_239.wav: BTN3 hold 3s: Reset daily steps
+Original:    BTN3 hold 3s: Reset daily steps
+--------------------------------------------------
+serial_240.wav: BTN3 hold 10s: Factory reset
+Original:    BTN3 hold 10s: Factory reset
+--------------------------------------------------
+serial_241.wav: n Enhanced R F I D Commands:
+Original: \n🏠 Enhanced RFID Commands:
+--------------------------------------------------
+serial_242.wav: zonestats - Show zone statistics
+Original:    zonestats - Show zone statistics
+--------------------------------------------------
+serial_243.wav: Time of Flight Sensor Reset - Reinitializing...
+Original: 🔄 ToF Sensor Reset - Reinitializing...
+--------------------------------------------------
+serial_244.wav: Time of Flight Sensor Reset Complete
+Original: ✅ ToF Sensor Reset Complete
+--------------------------------------------------
+serial_245.wav: Failed to initialize sensor!
+Original: Failed to initialize sensor!
+--------------------------------------------------
+serial_246.wav: nVL53L1X Smart Cane System Initialized
+Original: \nVL53L1X Smart Cane System Initialized
+--------------------------------------------------
+serial_247.wav: ========================================
+Original: ========================================
+--------------------------------------------------
+serial_248.wav: Modes: SIMPLE / RADAR
+Original: Modes: SIMPLE (fixed) / RADAR (scanning)
+--------------------------------------------------
+serial_249.wav: Time of Flight Sensor appears stuck at max range
+Original: ⚠️ ToF Sensor appears stuck at max range
+--------------------------------------------------
+serial_250.wav: Time of Flight Debug: Raw=value Median=value Filtered=value Mode=value SIMPLE MODEn
+Original: ToF Debug: Raw=%d, Median=%d, Filtered=%.1f, Mode=%s [SIMPLE MODE]\n
+--------------------------------------------------
+serial_251.wav: Distance change: value cmn
+Original: ⚠️ Distance change: %.1f cm\n
+--------------------------------------------------
+serial_252.wav: n Switched to mode:
+Original: \n🔄 Switched to mode: 
+--------------------------------------------------
+serial_253.wav: SIMPLE
+Original: SIMPLE (Fixed ToF)
+--------------------------------------------------
+serial_254.wav: RADAR
+Original: RADAR (Servo Scanning)
+--------------------------------------------------
+serial_255.wav: Feedback Mode: value n
+Original: 🔊 Feedback Mode: %d (0=BOTH, 1=BUZZER, 2=VIBRATION)\n
+--------------------------------------------------
+serial_257.wav: CLEAR
+Original: CLEAR
+--------------------------------------------------
+serial_258.wav: DANGER
+Original: DANGER 
+--------------------------------------------------
+serial_259.wav: centimeters
+Original: cm
+--------------------------------------------------
+serial_261.wav: | Mode:
+Original:  | Mode: 
+--------------------------------------------------
+serial_262.wav: SIMPLE
+Original: SIMPLE
+--------------------------------------------------
+serial_263.wav: RADAR
+Original: RADAR
+--------------------------------------------------
+serial_264.wav: | ALERT
+Original:  | ⚠️ ALERT
+--------------------------------------------------
+serial_265.wav: n Current Configuration:
+Original: \n⚙️ Current Configuration:
+--------------------------------------------------
+serial_266.wav: Max Range:
+Original:   Max Range: 
+--------------------------------------------------
+serial_267.wav: 0cm
+Original: 0cm
+--------------------------------------------------
+serial_268.wav: Current Mode:
+Original:   Current Mode: 
+--------------------------------------------------
+serial_269.wav: Switching to RADAR MODE
+Original: 🔄 Switching to RADAR MODE
+--------------------------------------------------
+serial_270.wav: Switching to SIMPLE MODE
+Original: 🔄 Switching to SIMPLE MODE
+--------------------------------------------------
+serial_271.wav: Real-time radar task started
+Original: 🔄 Real-time radar task started
+--------------------------------------------------
+serial_272.wav: Radar sweep completed starting new cycle
+Original: 🔄 Radar sweep completed, starting new cycle
+--------------------------------------------------
+serial_273.wav: Real-time radar scanning started
+Original: 🔄 Real-time radar scanning started
+--------------------------------------------------
+serial_274.wav: n RADAR SCAN RESULTS :
+Original: \n📊 RADAR SCAN RESULTS (Key Angles):
+--------------------------------------------------
+serial_275.wav: ───────────────────────────────
+Original: ┌─────────┬────────────┬──────────┐
+--------------------------------------------------
+serial_276.wav: Angle Distance Obstacle?
+Original: │ Angle   │ Distance   │ Obstacle? │
+--------------------------------------------------
+serial_277.wav: ───────────────────────────────
+Original: ├─────────┼────────────┼──────────┤
+--------------------------------------------------
+serial_278.wav: value° value millimeters value n
+Original: │ %6d° │ %8d mm │ %8s │\n
+--------------------------------------------------
+serial_279.wav: ───────────────────────────────
+Original: └─────────┴────────────┴──────────┘
+--------------------------------------------------
+serial_280.wav: SAFEST DIRECTION: valuen
+Original: 🎯 SAFEST DIRECTION: %s\n
+--------------------------------------------------
+serial_281.wav: CENTER DISTANCE : value mmn
+Original: 📏 CENTER DISTANCE (90°): %d mm\n
+--------------------------------------------------
+serial_282.wav: n Time of Flight Sensor Diagnostics:
+Original: \n🔧 ToF Sensor Diagnostics:
+--------------------------------------------------
+serial_283.wav: ================================
+Original: ================================
+--------------------------------------------------
+serial_284.wav: I squared C Communication: valuen
+Original: I2C Communication: %s\n
+--------------------------------------------------
+serial_285.wav: Current Mode: valuen
+Original: Current Mode: %s\n
+--------------------------------------------------
+serial_286.wav: Radar Mode Active: valuen
+Original: Radar Mode Active: %s\n
+--------------------------------------------------
+serial_287.wav: Sensor Data Ready:
+Original: Sensor Data Ready: 
+--------------------------------------------------
+serial_288.wav: YES n
+Original: ✅ YES (Reading: %d cm)\n
+--------------------------------------------------
+serial_290.wav: Servo Pin: valuen
+Original: Servo Pin: %d\n
+--------------------------------------------------
+serial_291.wav: Servo Status: Attached
+Original: Servo Status: Attached
+--------------------------------------------------
+serial_292.wav: nTesting single reading with 2s timeout...
+Original: \nTesting single reading with 2s timeout...
+--------------------------------------------------
+serial_293.wav: Test reading successful: value cmn
+Original: ✅ Test reading successful: %d cm\n
+--------------------------------------------------
+serial_294.wav: Test reading failed - sensor timeout
+Original: ❌ Test reading failed - sensor timeout
+--------------------------------------------------
+serial_295.wav: Suggestions:
+Original: 💡 Suggestions:
+--------------------------------------------------
+serial_296.wav: - Check I squared C wiring
+Original:    - Check I2C wiring (SDA=8, SCL=9)
+--------------------------------------------------
+serial_297.wav: - Check sensor power supply
+Original:    - Check sensor power supply
+--------------------------------------------------
+serial_298.wav: - Try 'tofreset' command
+Original:    - Try 'tofreset' command
+--------------------------------------------------
+serial_299.wav: ================================n
+Original: ================================\n
+--------------------------------------------------
+serial_300.wav: SensorHealth Manager initialized
+Original: SensorHealth Manager initialized
+--------------------------------------------------
+serial_301.wav: SensorHealth Sending health report...
+Original: [SensorHealth] Sending health report...
+--------------------------------------------------
+serial_302.wav: SensorHealth Rate limited skipping send
+Original: [SensorHealth] Rate limited, skipping send
+--------------------------------------------------
+serial_303.wav: SensorHealth Bluetooth Low Energy not connected skipping send
+Original: [SensorHealth] BLE not connected, skipping send
+--------------------------------------------------
+serial_304.wav: SensorHealth Sending immediate health report
+Original: [SensorHealth] Sending immediate health report
+--------------------------------------------------
+serial_305.wav: SensorHealth Creating J S O N...
+Original: [SensorHealth] Creating JSON...
+--------------------------------------------------
+serial_306.wav: SensorHealth Sending data via Bluetooth Low Energy...
+Original: [SensorHealth] Sending data via BLE...
+--------------------------------------------------
+serial_307.wav: n=== SENSOR HEALTH STATUS ===
+Original: \n=== SENSOR HEALTH STATUS ===
+--------------------------------------------------
+serial_308.wav: S D Card initialization failed!
+Original: SD Card initialization failed!
+--------------------------------------------------
+serial_309.wav: Check if S D card is inserted and try again.
+Original: Check if SD card is inserted and try again.
+--------------------------------------------------
+serial_310.wav: S D Card initialized successfully
+Original: SD Card initialized successfully
+--------------------------------------------------
+serial_311.wav: Card type: MMC
+Original: Card type: MMC
+--------------------------------------------------
+serial_312.wav: Card type: SDSC
+Original: Card type: SDSC
+--------------------------------------------------
+serial_313.wav: Card type: SDHC
+Original: Card type: SDHC
+--------------------------------------------------
+serial_314.wav: Card type: UNKNOWN
+Original: Card type: UNKNOWN
+--------------------------------------------------
+serial_315.wav: S D Card Size: valueMBn
+Original: SD Card Size: %lluMB\n
+--------------------------------------------------
+serial_316.wav: Created /config directory
+Original: Created /config directory
+--------------------------------------------------
+serial_317.wav: Created /data directory
+Original: Created /data directory
+--------------------------------------------------
+serial_318.wav: Failed to open directory
+Original: Failed to open directory
+--------------------------------------------------
+serial_319.wav: Not a directory
+Original: Not a directory
+--------------------------------------------------
+serial_320.wav: FILE: valuettSIZE: valuen
+Original:   FILE: %s\t\tSIZE: %d\n
+--------------------------------------------------
+serial_321.wav: File written successfully: valuen
+Original: File written successfully: %s\n
+--------------------------------------------------
+serial_322.wav: Failed to write file: valuen
+Original: Failed to write file: %s\n
+--------------------------------------------------
+serial_323.wav: File deleted successfully: valuen
+Original: File deleted successfully: %s\n
+--------------------------------------------------
+serial_324.wav: Failed to delete file: valuen
+Original: Failed to delete file: %s\n
+--------------------------------------------------
+serial_325.wav: Binary file written: value size: value bytesn
+Original: Binary file written: %s, size: %d bytes\n
+--------------------------------------------------
+serial_326.wav: Failed to write binary file: valuen
+Original: Failed to write binary file: %s\n
+--------------------------------------------------
+serial_327.wav: J S O N saved successfully: valuen
+Original: JSON saved successfully: %s\n
+--------------------------------------------------
+serial_328.wav: Failed to save J S O N: valuen
+Original: Failed to save JSON: %s\n
+--------------------------------------------------
+serial_329.wav: J S O N loaded successfully: valuen
+Original: JSON loaded successfully: %s\n
+--------------------------------------------------
+serial_330.wav: Failed to load J S O N: valuen
+Original: Failed to load JSON: %s\n
+--------------------------------------------------
+serial_331.wav: J S O N parsing failed: valuen
+Original: JSON parsing failed: %s\n
+--------------------------------------------------
+serial_332.wav: S P I communication failed check connections.
+Original: SPI communication failed, check connections.
+--------------------------------------------------
+serial_333.wav: Using S D card for room data storage
+Original: Using SD card for room data storage
+--------------------------------------------------
+serial_334.wav: R F I D in ultra-sensitive mode
+Original: RFID in ultra-sensitive mode
+--------------------------------------------------
+serial_335.wav: R F I D Zoning System Initialized
+Original: RFID Zoning System Initialized
+--------------------------------------------------
+serial_336.wav: Card scanned: valuen
+Original: Card scanned: %s\n
+--------------------------------------------------
+serial_337.wav: Location registered: Room value Card: valuen
+Original: Location registered: Room %d, Card: %s\n
+--------------------------------------------------
+serial_338.wav: Invalid room number: valuen
+Original: Invalid room number: %d\n
+--------------------------------------------------
+serial_339.wav: Invalid card UID format: valuen
+Original: Invalid card UID format: %s\n
+--------------------------------------------------
+serial_340.wav: Room card registered: value -> valuen
+Original: Room card registered: %d -> %s\n
+--------------------------------------------------
+serial_341.wav: === REGISTERED ROOM CARDS ===
+Original: === REGISTERED ROOM CARDS ===
+--------------------------------------------------
+serial_342.wav: Room value: valuen
+Original: Room %d: %s\n
+--------------------------------------------------
+serial_343.wav: Entry event: Room valuen
+Original: Entry event: Room %d\n
+--------------------------------------------------
+serial_344.wav: Exit event: Room valuen
+Original: Exit event: Room %d\n
+--------------------------------------------------
+serial_345.wav: R F I D sensor status: valuen
+Original: RFID sensor status: %s\n
+--------------------------------------------------
+serial_346.wav: Zone data: valuen
+Original: Zone data: %s\n
+--------------------------------------------------
+serial_347.wav: R F I D Single location registration mode activated
+Original: [RFID] Single location registration mode activated
+--------------------------------------------------
+serial_348.wav: I M U: Saved step data - Daily: value Total: valuen
+Original: IMU: Saved step data - Daily: %lu, Total: %lu\n
+--------------------------------------------------
+serial_349.wav: I M U: Loaded step data - Daily: value Total: valuen
+Original: IMU: Loaded step data - Daily: %lu, Total: %lu\n
+--------------------------------------------------
+serial_350.wav: I M U: Daily reset triggered by NTP time
+Original: IMU: Daily reset triggered by NTP time
+--------------------------------------------------
+serial_351.wav: I M U: Daily reset triggered by G P S time
+Original: IMU: Daily reset triggered by GPS time
+--------------------------------------------------
+serial_352.wav: I M U: G P S time set - value:value:valuen
+Original: IMU: GPS time set - %02d:%02d:%02d\n
+--------------------------------------------------
+serial_353.wav: I M U: Accelerometer offsets - X:value Y:value Z:valuen
+Original: IMU: Accelerometer offsets - X:%.2f Y:%.2f Z:%.2f\n
+--------------------------------------------------
+serial_354.wav: I M U: Gyroscope offsets - X:value Y:value Z:valuen
+Original: IMU: Gyroscope offsets - X:%.2f Y:%.2f Z:%.2f\n
+--------------------------------------------------
+serial_355.wav: I M U: Step detected! Daily: value Total: valuen
+Original: IMU: Step detected! Daily: %lu, Total: %lu\n
+--------------------------------------------------
+serial_356.wav: I M U: Accel Gyro Temp:value°Cn
+Original: IMU: Accel(%.2f,%.2f,%.2f) Gyro(%.2f,%.2f,%.2f) Temp:%.1f°C\n
+--------------------------------------------------
+serial_357.wav: I M U: Pitch:value° Roll:value° Yaw:value°n
+Original: IMU: Pitch:%.1f° Roll:%.1f° Yaw:%.1f°\n
+--------------------------------------------------
+serial_358.wav: I M U: Steps - Daily:value Total:valuen
+Original: IMU: Steps - Daily:%lu Total:%lu\n
+--------------------------------------------------
+serial_359.wav: Bluetooth Low Energy: Received command: valuen
+Original: BLE: Received command: %s\n
+--------------------------------------------------
+serial_360.wav: Bluetooth Low Energy: Large data transmission - Size: value bytesn
+Original: BLE: Large data transmission - Size: %d bytes\n
+--------------------------------------------------
+serial_361.wav: Bluetooth Low Energy: Large data transmission debug enabled
+Original: BLE: Large data transmission debug enabled
+--------------------------------------------------
+serial_362.wav: Bluetooth Low Energy: Step update sent - Daily: value Total: valuen
+Original: BLE: Step update sent - Daily: %lu, Total: %lu\n
+--------------------------------------------------
+serial_363.wav: Bluetooth Low Energy: Queue stats - Queued: value Total: value Dropped: valuen
+Original: BLE: Queue stats - Queued: %d, Total: %d, Dropped: %d\n
+--------------------------------------------------
+serial_364.wav: Bluetooth Low Energy: Performance - Latency: value milliseconds Throughput: value KB/sn
+Original: BLE: Performance - Latency: %lu ms, Throughput: %.2f KB/s\n
+--------------------------------------------------
+serial_365.wav: G P S: Serial communication active on pins RX:value TX:valuen
+Original: GPS: Serial communication active on pins RX:%d TX:%d\n
+--------------------------------------------------
+serial_366.wav: G P S: Power saving mode valuen
+Original: GPS: Power saving mode %s\n
+--------------------------------------------------
+serial_367.wav: GzipUtils: Failed to create file: valuen
+Original: GzipUtils: Failed to create file: %s\n
+--------------------------------------------------
+serial_368.wav: GzipUtils: Failed to write to file: valuen
+Original: GzipUtils: Failed to write to file: %s\n
+--------------------------------------------------
+serial_369.wav: GzipUtils: Compression complete - Original: value bytes Compressed: value bytes n
+Original: GzipUtils: Compression complete - Original: %d bytes, Compressed: %d bytes (%.1f%% reduction)\n
+--------------------------------------------------
+serial_370.wav: FeedbackManager: Mode changed to valuen
+Original: FeedbackManager: Mode changed to %d\n
+--------------------------------------------------
+serial_371.wav: Diagnostic Progress: valuevaluevaluen
+Original: Diagnostic Progress: %d%%\n
+--------------------------------------------------
+serial_372.wav: Sensor Check: value - valuen
+Original: Sensor Check: %s - %s\n
+--------------------------------------------------
+serial_373.wav: Sensor value: Connected and respondingn
+Original: Sensor %s: Connected and responding\n
+--------------------------------------------------
+serial_374.wav: Sensor value: Wiring issue detectedn
+Original: Sensor %s: Wiring issue detected\n
+--------------------------------------------------
+serial_375.wav: Sensor value: Calibration requiredn
+Original: Sensor %s: Calibration required\n
+--------------------------------------------------
+serial_376.wav: Sensor value: Unknown statusn
+Original: Sensor %s: Unknown status\n
+--------------------------------------------------
+serial_377.wav: Error: valuenSolution: valuen
+Original: Error: %s\nSolution: %s\n
+--------------------------------------------------
+serial_378.wav: Current time:
+Original: Current time: 
+--------------------------------------------------
