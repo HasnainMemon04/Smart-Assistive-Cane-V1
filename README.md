@@ -19,6 +19,20 @@
 
 ---
 
+## 🎬 Demo Video
+
+<div align="center">
+
+[![Smart Assistive Cane V1 - Complete Demo](https://img.youtube.com/vi/00Bjsmo0-0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=00Bjsmo0-0U)
+
+**🎥 [Watch the Complete System Demo](https://www.youtube.com/watch?v=00Bjsmo0-0U)**
+
+*See the Smart Assistive Cane V1 in action! This comprehensive demo showcases real-time obstacle detection, indoor navigation, mobile app integration, and all key features working together.*
+
+</div>
+
+---
+
 <div align="center">
 
 **A comprehensive smart assistive cane system designed to help visually impaired individuals navigate both indoor and outdoor environments safely and independently.**
