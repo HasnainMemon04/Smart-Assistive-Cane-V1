@@ -10,8 +10,8 @@ We actively maintain security updates for the following versions:
 
 | Version | Supported          | End of Life |
 | ------- | ------------------ | ----------- |
-| 1.x.x   | ✅ Fully Supported | TBD         |
-| 0.x.x   | ⚠️ Beta/Development | 2025-12-31  |
+| 1.0.1   | ✅ Fully Supported | TBD         |
+| 1.0.0   | ⚠️ Beta/Development | 2025-06-31  |
 
 ## 🚨 Reporting Security Vulnerabilities
 
